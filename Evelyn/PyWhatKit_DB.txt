@@ -1,0 +1,30 @@
+Date: 4/4/2025
+Time: 12:53
+Phone Number: +91 90272 84016
+Message: Hello! This is an automated message sent using Python.
+--------------------
+Date: 4/4/2025
+Time: 12:54
+Phone Number: +91 90272 84016
+Message: Hello! This is an automated message sent using Python.
+--------------------
+Date: 4/4/2025
+Time: 12:54
+Phone Number: +91 90272 84016
+Message: Hello! This is an automated message sent using Python.
+--------------------
+Date: 4/4/2025
+Time: 12:59
+Phone Number: +917206550805
+Message: hii
+--------------------
+Date: 4/4/2025
+Time: 14:18
+Phone Number: +917206550805
+Message: hii
+--------------------
+Date: 4/4/2025
+Time: 14:23
+Phone Number: +919027284016
+Message: pagal
+--------------------
